@@ -1,3 +1,0 @@
-Dòng 1: Xin chào!
-Dòng 2: Đây là ví dụ.
-Dòng 3: Kết thúc.
