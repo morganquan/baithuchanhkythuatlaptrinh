@@ -11,6 +11,6 @@ def draw_circle_pattern(radius, step, repeat):
         pen.color(colors[i % len(colors)])
         pen.circle(radius)
         pen.right(step)
-draw_circle_pattern(radius=100, step=30, repeat=12)
+draw_circle_pattern(radius=100, step=50, repeat=100)
 pen.hideturtle()
 window.mainloop()
